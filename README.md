@@ -13,7 +13,7 @@ Computer Science & Engineering student at [FEUP](https://www.up.pt/feup/pt/), fo
 
 Member of the AI Security team at [**ARMISLAB@FEUP**](https://recrutamento.armislabfeup.com/), an R&D lab born from a partnership between [FEUP](https://www.up.pt/feup/pt/) and [ARMIS Group](https://www.armisgroup.com/). There I work on AI architectures for security alert analysis, comparing agentic designs on accuracy, consistency, and resistance to adversarial manipulation.
 
-Outside the lab, I write on [Medium](https://medium.com/@msm05): OSINT CTF writeups on threat-actor attribution, geolocation, and missing-person cases, and long-form analysis on the war in Ukraine and European security. I also like building things, such as a portable hacking lab that fits in a suitcase, powered by a Raspberry Pi 4 running Kali Linux.
+Beyond academia, I write on [Medium](https://medium.com/@msm05): OSINT CTF writeups on threat-actor attribution, geolocation, and missing-person cases, and long-form analysis on the war in Ukraine and European security. I also like building things, such as a portable hacking lab that fits in a suitcase, powered by a Raspberry Pi 4 running Kali Linux.
 
 ![C++](https://img.shields.io/badge/-C++-3a3a3a?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3a3a3a?style=flat&logo=python&logoColor=white)
@@ -24,10 +24,10 @@ Outside the lab, I write on [Medium](https://medium.com/@msm05): OSINT CTF write
 ## Featured projects
 
 <p align="center">
-<a href="#"><img alt="[Projeto 1]" src="cards/project1.svg" width="49%"></a><a href="#"><img alt="[Projeto 2]" src="cards/project2.svg" width="49%"></a>
+<a href="#"><img alt="NutriCode" src="cards/nutricode.svg" width="49%"></a><a href="#"><img alt="MINIX Grand Prix" src="cards/minix-grand-prix.svg" width="49%"></a>
 </p>
 <p align="center">
-<a href="#"><img alt="[Projeto 3]" src="cards/project3.svg" width="49%"></a><a href="#"><img alt="[Projeto 4]" src="cards/project4.svg" width="49%"></a>
+<a href="#"><img alt="Real Estate Agency DB" src="cards/real-estate-db.svg" width="49%"></a><a href="#"><img alt="GymMaxxing" src="cards/gymmaxxing.svg" width="49%"></a>
 </p>
 
 ## Languages
