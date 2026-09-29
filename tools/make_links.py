@@ -20,7 +20,7 @@ LINKS = [
     ("email", "Email"),
 ]
 
-H, ICON, GAP, FONT = 28, 18, 7, 15
+H, ICON, GAP, FONT = 34, 22, 8, 18
 MEASURE = ImageFont.truetype("C:/Windows/Fonts/segoeui.ttf", FONT)
 
 

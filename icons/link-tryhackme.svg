@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="103" height="28" viewBox="0 0 103 28" role="img" aria-label="TryHackMe">
+<svg xmlns="http://www.w3.org/2000/svg" width="122" height="34" viewBox="0 0 122 34" role="img" aria-label="TryHackMe">
 <style>
   path { fill: #ffffff; }
-  text { fill: #c9d1d9; font-family: -apple-system, 'Segoe UI', system-ui, sans-serif; font-size: 15px; }
+  text { fill: #c9d1d9; font-family: -apple-system, 'Segoe UI', system-ui, sans-serif; font-size: 18px; }
   @media (prefers-color-scheme: light) { path { fill: #1f2328; } text { fill: #1f2328; } }
 </style>
-<svg x="0" y="5.0" width="18" height="18" viewBox="0 0 24 24"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z"/></svg>
-<text x="25" y="19.2">TryHackMe</text>
+<svg x="0" y="6.0" width="22" height="22" viewBox="0 0 24 24"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z"/></svg>
+<text x="30" y="23.3">TryHackMe</text>
 </svg>
