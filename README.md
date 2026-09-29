@@ -15,6 +15,7 @@ Member of the AI Security team at [**ARMISLAB@FEUP**](https://recrutamento.armis
 
 Beyond academia, I write on [Medium](https://medium.com/@msm05): OSINT CTF writeups on threat-actor attribution, geolocation, and missing-person cases, and long-form analysis on the war in Ukraine and European security. I also like building things, such as a portable hacking lab that fits in a suitcase, powered by a Raspberry Pi 4 running Kali Linux.
 
+![C](https://img.shields.io/badge/-C-3a3a3a?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-3a3a3a?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3a3a3a?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-3a3a3a?style=flat&logo=sqlite&logoColor=white)
