@@ -1,35 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="700" viewBox="0 0 1400 700" role="img" aria-label="[Banner]">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="700" viewBox="0 0 1400 700" role="img" aria-label="Miguel Mimoso">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#134e4a"/><stop offset="1" stop-color="#0d1117"/>
+    <stop offset="0" stop-color="#3a3a3a"/><stop offset="0.55" stop-color="#161616"/><stop offset="1" stop-color="#050505"/>
   </linearGradient>
   <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#0d1117" stop-opacity="0"/><stop offset="1" stop-color="#0d1117" stop-opacity="0.9"/>
+    <stop offset="0" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.9"/>
   </linearGradient>
 </defs>
 <style>
   text { font-family: 'DejaVu Sans', 'Segoe UI', Verdana, sans-serif; }
   .name { fill: #ffffff; font-size: 44px; font-weight: 800; letter-spacing: 2px; }
-  .sub { fill: #2dd4bf; font-size: 15px; font-weight: 700; letter-spacing: 1.5px; }
-  .num { fill: #ffffff; font-size: 34px; font-weight: 800; }
-  .lbl { fill: #2dd4bf; font-size: 14px; }
+  .sub { fill: #a3a3a3; font-size: 15px; font-weight: 700; letter-spacing: 1.5px; }
   .ph { fill: #ffffff66; font-size: 22px; font-weight: 700; }
 </style>
 <rect width="1400" height="700" fill="url(#bg)"/>
 <rect x="760" y="60" width="560" height="440" rx="20" fill="none" stroke="#ffffff33" stroke-width="2" stroke-dasharray="10 8"/>
 <text x="1040" y="288" text-anchor="middle" class="ph">[a tua foto aqui]</text>
-<polyline points="40,70 110,68 180,56 230,58 290,76 400,40" fill="none" stroke="#2dd4bf" stroke-width="3"/>
-<circle cx="40" cy="70" r="6" fill="#2dd4bf"/>
-<circle cx="400" cy="40" r="8" fill="none" stroke="#2dd4bf" stroke-width="3"/>
-<text x="40" y="206" class="name">[O TEU NOME]</text>
-<text x="42" y="236" class="sub">[CURSO]  ·  [CIDADE]</text>
 <rect y="520" width="1400" height="180" fill="url(#fade)"/>
-<text x="233" y="614" text-anchor="middle" class="num">[X]</text>
-<text x="233" y="644" text-anchor="middle" class="lbl">[ESTATÍSTICA 1]</text>
-<line x1="467" y1="570" x2="467" y2="660" stroke="#ffffff" stroke-width="2"/>
-<text x="700" y="614" text-anchor="middle" class="num">[Y]</text>
-<text x="700" y="644" text-anchor="middle" class="lbl">[ESTATÍSTICA 2]</text>
-<line x1="934" y1="570" x2="934" y2="660" stroke="#ffffff" stroke-width="2"/>
-<text x="1167" y="614" text-anchor="middle" class="num">[Z]</text>
-<text x="1167" y="644" text-anchor="middle" class="lbl">[ESTATÍSTICA 3]</text>
+<text x="40" y="206" class="name">MIGUEL MIMOSO</text>
+<text x="42" y="236" class="sub">BSC COMPUTER SCIENCE &amp; ENGINEERING  ·  PORTO</text>
 </svg>

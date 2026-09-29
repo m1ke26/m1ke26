@@ -12,8 +12,8 @@ import textwrap
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-ACCENT = "#2dd4bf"
-ACCENT_LIGHT = "#0f766e"
+ACCENT = "#d4d4d4"
+ACCENT_LIGHT = "#404040"
 
 PROJECTS = [
     {"file": "project1", "title": "[Nome do projeto 1]", "desc": "[Descrição curta do projeto: o que faz e com que tecnologias.]", "tags": ["[Linguagem]"], "cover": None},
@@ -54,12 +54,12 @@ def make_card(p):
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="360" height="300" viewBox="0 0 360 300" role="img" aria-label="{title}">
 <defs>
   <style>
-    text {{ font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', Consolas, monospace; fill: #e7ebf3; }}
-    .card-bg {{ fill: #10151d; stroke: none; }}
-    .title {{ fill: #e7ebf3; }}
-    .desc {{ fill: #c9d1d9; }}
+    text {{ font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', Consolas, monospace; fill: #ffffff; }}
+    .card-bg {{ fill: #111111; stroke: none; }}
+    .title {{ fill: #ffffff; }}
+    .desc {{ fill: #a3a3a3; }}
     .accent {{ fill: {ACCENT}; }}
-    .pill {{ fill: #141a26; stroke: #ffffff14; }}
+    .pill {{ fill: #1c1c1c; stroke: #ffffff14; }}
     .divider {{ stroke: #ffffff14; }}
     @media (prefers-color-scheme: light) {{
       text {{ fill: #1f2328; }}
@@ -72,10 +72,10 @@ def make_card(p):
     }}
   </style>
   <filter id="cardGlow_{uid}" x="-25%" y="-25%" width="150%" height="150%">
-    <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="{ACCENT}" flood-opacity="0.16"/>
+    <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#ffffff" flood-opacity="0.10"/>
   </filter>
   <linearGradient id="coverGrad_{uid}" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#134e4a"/><stop offset="1" stop-color="#0f172a"/>
+    <stop offset="0" stop-color="#3a3a3a"/><stop offset="1" stop-color="#0a0a0a"/>
   </linearGradient>
   <clipPath id="imgClip_{uid}"><path d="M0 14 a14 14 0 0 1 14 -14 h312 a14 14 0 0 1 14 14 v126 h-340 z"/></clipPath>
 </defs>

@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="300" viewBox="0 0 360 300" role="img" aria-label="[Nome do projeto 2]">
 <defs>
   <style>
-    text { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', Consolas, monospace; fill: #e7ebf3; }
-    .card-bg { fill: #10151d; stroke: none; }
-    .title { fill: #e7ebf3; }
-    .desc { fill: #c9d1d9; }
-    .accent { fill: #2dd4bf; }
-    .pill { fill: #141a26; stroke: #ffffff14; }
+    text { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', Consolas, monospace; fill: #ffffff; }
+    .card-bg { fill: #111111; stroke: none; }
+    .title { fill: #ffffff; }
+    .desc { fill: #a3a3a3; }
+    .accent { fill: #d4d4d4; }
+    .pill { fill: #1c1c1c; stroke: #ffffff14; }
     .divider { stroke: #ffffff14; }
     @media (prefers-color-scheme: light) {
       text { fill: #1f2328; }
       .card-bg { fill: #ffffff; stroke: #d0d7de; }
       .title { fill: #1f2328; }
       .desc { fill: #59636e; }
-      .accent { fill: #0f766e; }
+      .accent { fill: #404040; }
       .pill { fill: #f6f8fa; stroke: #d0d7de; }
       .divider { stroke: #d0d7de; }
     }
   </style>
   <filter id="cardGlow_project2" x="-25%" y="-25%" width="150%" height="150%">
-    <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#2dd4bf" flood-opacity="0.16"/>
+    <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#ffffff" flood-opacity="0.10"/>
   </filter>
   <linearGradient id="coverGrad_project2" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#134e4a"/><stop offset="1" stop-color="#0f172a"/>
+    <stop offset="0" stop-color="#3a3a3a"/><stop offset="1" stop-color="#0a0a0a"/>
   </linearGradient>
   <clipPath id="imgClip_project2"><path d="M0 14 a14 14 0 0 1 14 -14 h312 a14 14 0 0 1 14 14 v126 h-340 z"/></clipPath>
 </defs>
