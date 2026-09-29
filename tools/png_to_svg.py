@@ -16,7 +16,7 @@ STYLE = ("<style>path{fill:#ffffff}"
          "@media (prefers-color-scheme: light){path{fill:#1f2328}}</style>")
 
 # tamanho relativo de cada ícone (1 = ocupa a caixa toda); encolhe mantendo-o centrado
-SCALE = {"email": 0.9, "portfolio": 0.75}
+SCALE = {"email": 0.9, "portfolio": 0.75, "medium": 1.05}
 
 
 def trace(png):

@@ -24,10 +24,10 @@ Beyond academia, I write on [Medium](https://medium.com/@msm05): OSINT CTF write
 ## Featured projects
 
 <p align="center">
-<a href="#"><img alt="NutriCode" src="cards/nutricode.svg" width="49%"></a><a href="#"><img alt="MINIX Grand Prix" src="cards/minix-grand-prix.svg" width="49%"></a>
+<a href="https://github.com/m1ke26/NutriCode"><img alt="NutriCode" src="cards/nutricode.svg" width="49%"></a><a href="https://github.com/m1ke26/MINIX-Grand-Prix"><img alt="MINIX Grand Prix" src="cards/minix-grand-prix.svg" width="49%"></a>
 </p>
 <p align="center">
-<a href="#"><img alt="Real Estate Agency DB" src="cards/real-estate-db.svg" width="49%"></a><a href="#"><img alt="GymMaxxing" src="cards/gymmaxxing.svg" width="49%"></a>
+<a href="#"><img alt="Real Estate Agency DB" src="cards/real-estate-db.svg" width="49%"></a><a href="https://github.com/m1ke26/GymMaxxing"><img alt="GymMaxxing" src="cards/gymmaxxing.svg" width="49%"></a>
 </p>
 
 ## Languages
