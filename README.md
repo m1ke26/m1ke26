@@ -21,6 +21,10 @@ Beyond academia, I write on [Medium](https://medium.com/@msm05): OSINT CTF write
 ![HTML](https://img.shields.io/badge/-HTML-3a3a3a?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-3a3a3a?style=flat&logo=css&logoColor=white)
 
+![Docker](https://img.shields.io/badge/-Docker-3a3a3a?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-3a3a3a?style=flat&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-3a3a3a?style=flat&logo=git&logoColor=white)
+
 ## Featured projects
 
 <p align="center">
