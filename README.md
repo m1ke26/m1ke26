@@ -34,7 +34,3 @@ Beyond academia, I write on [Medium](https://medium.com/@msm05): OSINT CTF write
 <p align="center">
 <a href="https://github.com/m1ke26/Real-Estate-Agency-DB"><img alt="Real Estate Agency DB" src="cards/real-estate-db.svg" width="49%"></a><a href="https://github.com/m1ke26/GymMaxxing"><img alt="GymMaxxing" src="cards/gymmaxxing.svg" width="49%"></a>
 </p>
-
-## Languages
-
-![Top languages](https://readme-stats-private-five.vercel.app/api/top-langs/?username=m1ke26&layout=compact&hide_border=true&bg_color=111111&title_color=ffffff&text_color=a3a3a3)
