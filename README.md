@@ -1,10 +1,11 @@
 ![Miguel Mimoso](banner.svg)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/msm06/"><img alt="LinkedIn" src="icons/linkedin.svg" width="28"></a>&nbsp;&nbsp;
-<a href="mailto:msm.mimoso@gmail.com"><img alt="Email" src="icons/email.svg" width="28"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@msm05"><img alt="Medium" src="icons/medium.svg" width="28"></a>&nbsp;&nbsp;
-<a href="https://m1ke26.github.io/portfolio/"><img alt="Portfolio" src="icons/portfolio.svg" width="28"></a>
+<a href="https://www.linkedin.com/in/msm06/"><img alt="LinkedIn" src="icons/link-linkedin.svg" height="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@msm05"><img alt="Medium" src="icons/link-medium.svg" height="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://m1ke26.github.io/portfolio/"><img alt="Portfolio" src="icons/link-portfolio.svg" height="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tryhackme.com/p/m1ke26"><img alt="TryHackMe" src="icons/link-tryhackme.svg" height="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:msm.mimoso@gmail.com"><img alt="Email" src="icons/link-email.svg" height="28"></a>
 </p>
 
 ## About
