@@ -17,7 +17,6 @@ LINKS = [
     ("medium", "Medium"),
     ("portfolio", "Portfolio"),
     ("tryhackme", "TryHackMe"),
-    ("email", "Email"),
 ]
 
 H, ICON, GAP, FONT = 34, 22, 8, 18
